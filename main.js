@@ -1,2 +1,2 @@
-:) (Script)
+git training :) (Script)
  
